@@ -1,5 +1,9 @@
 # coin-arbitraj
 
+## Project About
+price difference comparison between paribu.com & chiliz.net exchange.
+
+
 ## Project setup
 ```
 npm install
