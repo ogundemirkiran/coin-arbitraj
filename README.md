@@ -1,28 +1,25 @@
-# coin-arbitraj
-
-## Project About
-price difference comparison between paribu.com & chiliz.net exchange.
+# Demo
 
 
-## Project setup
-```
-npm install
-```
+Comparing coins on paribu exchange and chiliz exchange.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Technology and Tools Used in This Project
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue.Js
+- Vue-Router
+- Vuex
+- Bootstrap
+- Bootstrap-Vue
+- Axios
+
+---
+
+---
+#[![image](https://r.resimlink.com/bOSw.png)](https://resimlink.com/bOSw)
+
+----
+
+#[![image](https://r.resimlink.com/0Oav6w.png)](https://resimlink.com/0Oav6w)
